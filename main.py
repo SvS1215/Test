@@ -21,6 +21,10 @@ class Moscal:
         self.Age = 29
         self.Money = 0
         self.Alive = True
+
+print('-'*60)
+print('Добрий день Вадим Серйгійович!')
+print('-'*60)
 Moscal1 = Moscal()
 Moscal1.Info()
 print('-'*60)
